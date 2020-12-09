@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright 2018, The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Covid Detector</string>
+    <string name="position">Position</string>
+    <string name="about_text">Android Trivia will help remind you of important concepts you have learned and will learn in Android development.\n\nConsider modifying the questions and graphics to make this game your own!</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="title_android_trivia_question">Covid Detector (%1$d/%2$d)</string>
+    <string name="submit_button">Submit</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_new">Covid Detector helps you detect if you might have Covid-19 or not. This app will ask several questions and display the prediction of your current state</string>
+    <string name="rules_new">The goal is simple, choose the best possible answer for each question to get the most accurate prediction. If your answer is accurate the accuracy of the prediction will increase. At the end of the quiz if your prediction displays that you have Covid-19, please go to the nearest hospital to take a test.</string>
+</resources>
